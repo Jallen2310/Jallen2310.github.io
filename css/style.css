@@ -59,3 +59,12 @@ footer {
 	margin-left: 45%;
 	font-size: 0.75rem;
 }
+@media only screen and (max-width: 1060px) {
+	body {
+		background: url('../images/mbackground.jpg');
+		background-size: 100% 100% ;
+
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+}
