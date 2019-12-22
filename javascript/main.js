@@ -5,8 +5,8 @@
 
 	var wedding = '<iframe src= "https://player.vimeo.com/video/379119655" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>'
 
- 	if (person == 'Dana') {document.getElementById("video").innerHTML = "Dana, I'm so glad my dad met you, you both are so happy together and I'm glad I could be there to see it. Love you all!" + "<br>" + wedding}
- 	else if (person == 'dana') {document.getElementById("video").innerHTML = "Dana, I'm so glad my dad met you, you both are so happy together and I'm glad I could be there to see it. Love you all!" + "<br>" + wedding}
+ 	if (person == 'Dana') {document.getElementById("video").innerHTML = "Dana, I'm so happy my dad met you, you both are so happy together and I'm glad I could be there to see it. Love you all!" + "<br>" + wedding}
+ 	else if (person == 'dana') {document.getElementById("video").innerHTML = "Dana, I'm so happy my dad met you, you both are so happy together and I'm glad I could be there to see it. Love you all!" + "<br>" + wedding}
  	
  	else if (person == 'Dave') {document.getElementById("video").innerHTML = "Dad, you've always been there for me even when I least expect it. I apreciate and cherish every moment we spent together, love you Dad!" + "<br>" + wedding}
  	else if (person == 'dave') {document.getElementById("video").innerHTML = "Dad, you've always been there for me even when I least expect it. I apreciate and cherish every moment we spent together, love you Dad!" + "<br>" + wedding}
@@ -50,8 +50,8 @@
 	else if (person == 'Bran') {document.getElementById("video").innerHTML = ""}
 	else if (person == 'bran') {document.getElementById("video").innerHTML = ""}
 
-	else if (person == 'Scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Love ya man."}
-	else if (person == 'scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Love ya man."}
+	else if (person == 'Scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Trust me when I say you will do better in life than most do. Love ya man."}
+	else if (person == 'scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Trust me when I say you will do better in life than most do. Love ya man."}
 
 	else if (person == 'Garrett') {document.getElementById("video").innerHTML = ""}
 	else if (person == 'garrett') {document.getElementById("video").innerHTML = ""}
