@@ -15,8 +15,8 @@
 
  	else if (person == 'Haelee') {document.getElementById("video").innerHTML ="Haelee, I hope y'all have a perfect Christmas, love you all very much!"}
  	else if (person == 'haelee') {document.getElementById("video").innerHTML ="Haelee, I hope y'all have a perfect Christmas, love you all very much!"}
-	else if (person == 'Delanee') {document.getElementById("video").innerHTML ="Delanee, you all have been so inspirational to me personally and I can't thank you enough. Love you all!"}
-	else if (person == 'delanee') {document.getElementById("video").innerHTML ="Delanee, you all have been so inspirational to me personally and I can't thank you enough. Love you all!"}
+	else if (person == 'Delanee') {document.getElementById("video").innerHTML ="Delanee, I wish you all the most amazing Christmas, Love you all!"}
+	else if (person == 'delanee') {document.getElementById("video").innerHTML ="Delanee, I wish you all the most amazing Christmas, Love you all!"}
 
 
 	else if (person == 'Jade') {document.getElementById("video").innerHTML ="Jade, I can't thank you enough for the motivation and inspiration you give me on a regular basis. I would say that you are the best, but you already know it. Love you Jade!"}
@@ -36,8 +36,8 @@
 	else if (person == 'Ash') {document.getElementById("video").innerHTML ="hello"}
 	else if (person == 'ash') {document.getElementById("video").innerHTML ="hello"}
 
-	else if (person == 'Jagger') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'jagger') {document.getElementById("video").innerHTML ="hello"}
+	else if (person == 'Jagger') {document.getElementById("video").innerHTML ="Jagger, I appreciate everything you have done to help me out, I honestly couldn't ask for a better brother to show me how the real world works. Love you Jagger!"}
+	else if (person == 'jagger') {document.getElementById("video").innerHTML ="Jagger, I appreciate everything you have done to help me out, I honestly couldn't ask for a better brother to show me how the real world works. Love you Jagger!"}
 
  	else if (person == 'Mom') {document.getElementById("video").innerHTML ="Mom, there really aint much I gotta say now huh? Ya already know I love ya, and that aint gonna change. But you have been a huge motivation to me ever since I almost drove that bus through the school, and when I tell people I'm a 'momma's boy' I ain't lying. Love you mom!"}
  	else if (person == 'mom') {document.getElementById("video").innerHTML = "Mom, there really aint much I gotta say now huh? Ya already know I love ya, and that aint gonna change. But you have been a huge motivation to me ever since I almost drove that bus through the school, and when I tell people I'm a 'momma's boy' I ain't lying. Love you mom!"}
