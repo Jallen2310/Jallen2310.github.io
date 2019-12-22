@@ -25,16 +25,16 @@
 	else if (person == 'Christina') {document.getElementById("video").innerHTML ="Christina, you are pretty rad whether you know it or not. You best not forget about them boys at the zoo. Love ya!"}
 	else if (person == 'christina') {document.getElementById("video").innerHTML ="Christina, you are pretty rad whether you know it or not. You best not forget about them boys at the zoo. Love ya!"}
 
-	else if (person == 'Donna') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'donna') {document.getElementById("video").innerHTML ="hello"}
+	else if (person == 'Donna') {document.getElementById("video").innerHTML ="Donna, I never quite figured it out. Most people I know crack under half the pressure you have and you still stay on top of everything, How do you do it? Believe me when I say you are doing the best I've seen, and more than you need to at the same time. Love you Donna."}
+	else if (person == 'donna') {document.getElementById("video").innerHTML ="Donna, I never quite figured it out. Most people I know crack under half the pressure you have and you still stay on top of everything, How do you do it? Believe me when I say you are doing the best I've seen, and more than you need to at the same time. Love you Donna."}
 
-	else if (person == 'Dakota') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'dakota') {document.getElementById("video").innerHTML ="hello"}
+	else if (person == 'Dakota') {document.getElementById("video").innerHTML ="Dakota, it's surprising just how smart you really are. You've already succeeded where most others have failed in a significant way, and you'll never beat me at Mario Kart. I'm taking that shit to the grave, and yeah, I can say whatever the hell I want to on here, because its my goddamn website. Love you Dakota!"}
+	else if (person == 'dakota') {document.getElementById("video").innerHTML ="Dakota, it's surprising just how smart you really are. You've already succeeded where most others have failed in a significant way, and you'll never beat me at Mario Kart. I'm taking that shit to the grave, and yeah, I can say whatever the hell I want to on here, because its my goddamn website. Love you Dakota!"}
 
-	else if (person == 'Ashliegh') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'ashliegh') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'Ash') {document.getElementById("video").innerHTML ="hello"}
-	else if (person == 'ash') {document.getElementById("video").innerHTML ="hello"}
+	else if (person == 'Ashliegh') {document.getElementById("video").innerHTML ="Ashliegh, as the world is slowly collapsing from the fast food 'innovations' such as Thanksgiving pizza in December and Taco Bell's 'Breakfast Salsa,' it's nice to see someone so cheerful about everything. Love you Ash."}
+	else if (person == 'ashliegh') {document.getElementById("video").innerHTML ="Ashliegh, as the world is slowly collapsing from the fast food 'innovations' such as Thanksgiving pizza in December and Taco Bell's 'Breakfast Salsa,' it's nice to see someone so cheerful about everything. Love you Ash."}
+	else if (person == 'Ash') {document.getElementById("video").innerHTML ="Ashliegh, as the world is slowly collapsing from the fast food 'innovations' such as Thanksgiving pizza in December and Taco Bell's 'Breakfast Salsa,' it's nice to see someone so cheerful about everything. Love you Ash."}
+	else if (person == 'ash') {document.getElementById("video").innerHTML ="Ashliegh, as the world is slowly collapsing from the fast food 'innovations' such as Thanksgiving pizza in December and Taco Bell's 'Breakfast Salsa,' it's nice to see someone so cheerful about everything. Love you Ash."}
 
 	else if (person == 'Jagger') {document.getElementById("video").innerHTML ="Jagger, I appreciate everything you have done to help me out, I honestly couldn't ask for a better brother to show me how the real world works. Love you Jagger!"}
 	else if (person == 'jagger') {document.getElementById("video").innerHTML ="Jagger, I appreciate everything you have done to help me out, I honestly couldn't ask for a better brother to show me how the real world works. Love you Jagger!"}
@@ -45,10 +45,10 @@
  	else if (person == 'tamie') {document.getElementById("video").innerHTML = "Mom, there really aint much I gotta say now huh? Ya already know I love ya, and that aint gonna change. But you have been a huge motivation to me ever since I almost drove that bus through the school, and when I tell people I'm a 'momma's boy' I ain't lying. Love you mom!"}
 
  		
-	else if (person == 'Brian') {document.getElementById("video").innerHTML = ""}
-	else if (person == 'brian') {document.getElementById("video").innerHTML = ""}
-	else if (person == 'Bran') {document.getElementById("video").innerHTML = ""}
-	else if (person == 'bran') {document.getElementById("video").innerHTML = ""}
+	else if (person == 'Brian') {document.getElementById("video").innerHTML = "Hey Brian, I just wanted to wish you a fantastic Christmas, you're smart as fuck and you seem to surprise me daily with a new positive trait, love ya man."}
+	else if (person == 'brian') {document.getElementById("video").innerHTML = "Hey Brian, I just wanted to wish you a fantastic Christmas, you're smart as fuck and you seem to surprise me daily with a new positive trait, love ya man."}
+	else if (person == 'Bran') {document.getElementById("video").innerHTML = "Hey Brian, I just wanted to wish you a fantastic Christmas, you're smart as fuck and you seem to surprise me daily with a new positive trait, love ya man."}
+	else if (person == 'bran') {document.getElementById("video").innerHTML = "Hey Brian, I just wanted to wish you a fantastic Christmas, you're smart as fuck and you seem to surprise me daily with a new positive trait, love ya man."}
 
 	else if (person == 'Scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Trust me when I say you will do better in life than most do. Love ya man."}
 	else if (person == 'scruffy') {document.getElementById("video").innerHTML = "Scruffy, you are the same goofy big boy we all need and deserve. Trust me when I say you will do better in life than most do. Love ya man."}
